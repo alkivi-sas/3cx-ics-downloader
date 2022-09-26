@@ -7,6 +7,7 @@ name = "pypi"
 alkivi-logger = "*"
 click = "*"
 jicson = "*"
+requests = "*"
 
 [dev-packages]
 flake8 = "*"
